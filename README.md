@@ -1,4 +1,4 @@
-## 어서오고 👋
+<!-- ## 어서오고 👋 -->
 
 <!--
 **doob9p/doob9p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://item.kakaocdn.net/do/b96a96356db2c4ec8e2d08ca4e9d457b8f324a0b9c48f77dbce3a43bd11ce785" width="800" height="200" />
+<img src="https://item.kakaocdn.net/do/b96a96356db2c4ec8e2d08ca4e9d457b8f324a0b9c48f77dbce3a43bd11ce785" />
 
 
 <a href="https://github.com/devxb/gitanimals">
