@@ -18,6 +18,16 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/devxb/gitanimals">
   <img
+    src="https://render.gitanimals.org/lines/doob9p?pet-id=642615988897940942"
+    width="800"
+    height="200"
+  />
+</a>
+  
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
     src="https://render.gitanimals.org/farms/doob9p"
     width="600"
     height="300"
