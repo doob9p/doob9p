@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://item.kakaocdn.net/do/b96a96356db2c4ec8e2d08ca4e9d457b8f324a0b9c48f77dbce3a43bd11ce785" />
-
 
 <a href="https://github.com/devxb/gitanimals">
   <img
